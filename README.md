@@ -1,4 +1,4 @@
-# coffee
+# coffee - a simple project done for Coding Minds Academy to showcase the basic elements of Flutter and Firebase
 
 A new Flutter project.
 
